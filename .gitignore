@@ -14,7 +14,6 @@ obj/
 *.iso
 *.cab
 *.msi
-*.exe
 *.dll
 *.pdb
 *.log
