@@ -1,0 +1,25 @@
+﻿# Default .gitignore by Antigravity Automation
+node_modules/
+dist/
+dist-electron/
+dist_electron/
+release/
+out/
+bin/
+obj/
+*.zip
+*.7z
+*.rar
+*.wim
+*.iso
+*.cab
+*.msi
+*.exe
+*.dll
+*.pdb
+*.log
+*.bak
+*.apk
+*.asar
+.DS_Store
+Thumbs.db

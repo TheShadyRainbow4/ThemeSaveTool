@@ -1,0 +1,7 @@
+.OPTION EXPLICIT
+.Set CabinetNameTemplate=TestTheme.deskthemepack
+.Set DiskDirectory1=C:\Users\Administrator\Desktop\ThemeSaveTool
+.Set MaxDiskSize=CDROM
+.Set Cabinet=on
+.Set Compress=on
+"C:\Users\Administrator\AppData\Local\Microsoft\Windows\Themes\Custom.theme"
